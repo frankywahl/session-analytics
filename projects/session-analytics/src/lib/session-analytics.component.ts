@@ -2,11 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'sa-session-analytics',
-  template: `
-    <p>
-      session-analytics works!
-    </p>
-  `,
+  templateUrl: './session-analytics.html',
   styles: []
 })
 export class SessionAnalyticsComponent implements OnInit {
