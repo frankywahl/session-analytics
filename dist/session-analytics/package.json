@@ -1,0 +1,21 @@
+{
+  "name": "session-analytics",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/session-analytics.umd.js",
+  "module": "fesm5/session-analytics.js",
+  "es2015": "fesm2015/session-analytics.js",
+  "esm5": "esm5/session-analytics.js",
+  "esm2015": "esm2015/session-analytics.js",
+  "fesm5": "fesm5/session-analytics.js",
+  "fesm2015": "fesm2015/session-analytics.js",
+  "typings": "session-analytics.d.ts",
+  "metadata": "session-analytics.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
